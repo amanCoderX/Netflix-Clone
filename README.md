@@ -19,3 +19,9 @@ A responsive front-end clone of the Netflix homepage created using HTML, CSS, an
 - HTML5
 - CSS3
 - JavaScript
+
+---
+
+### 🚀 Live Demo:
+👉 [Click here to view](https://voluble-moxie-c2320a.netlify.app)
+
