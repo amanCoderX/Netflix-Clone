@@ -22,6 +22,19 @@ A responsive front-end clone of the Netflix homepage created using HTML, CSS, an
 
 ---
 
+## 📸 Screenshots
+
+### 🎬 Netflix UI
+![Netflix UI](screenshots/netflix-ui.png)
+
+### ℹ️ About Section
+![About Netflix](screenshots/about-netflix.png)
+
+### 🔚 Footer Section
+![Netflix Footer](screenshots/netflix-footer.png)
+
+---
+
 ### 🚀 Live Demo:
 👉 [Click here to view](https://majestic-bavarois-fa707f.netlify.app/)
 
