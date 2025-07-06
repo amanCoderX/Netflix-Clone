@@ -25,7 +25,7 @@ A responsive front-end clone of the Netflix homepage created using HTML, CSS, an
 ## 📸 Screenshots
 
 ### 🎬 Netflix UI
-![Netflix UI](screenshots/netflix-ui.png)
+![Netflix UI](screenshots/netfli-ui.png)
 
 ### ℹ️ About Section
 ![About Netflix](screenshots/about-netflix.png)
